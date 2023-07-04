@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h2 align="left">💫 About Me:</h2>
 
-- 🌱 I’m currently learning about and Experience Mobile, Web, Desktop, Api, And Design UI/UX
+- 🌱 I’m currently learning about Desktop, Mobile, Api, Web Developer And Design UI/UX
 - 👨‍💻 All of my projects are available at [-](-)
 - 💬 Ask me about Android, Web, and whatever you want😄
 - 📫 How to reach me rhomaedycreator@gmail.com
