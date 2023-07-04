@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rhomaedi</h1>
-<h3 align="center">I am a developer of mobile applications and web applications, I have about 4 years of experience, I am very involved in the digital world or this developer, I am from Indonesia</h3>
+<!-- <h3 align="center">I am a developer of mobile applications and web applications, I have about 4 years of experience, I am very involved in the digital world or this developer, I am from Indonesia</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhomaedy1201&label=Profile%20views&color=0e75b6&style=flat" alt="rhomaedy1201" /> </p>
 
@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [-](-)
 - 💬 Ask me about Android, Web, and whatever you want😄
 - 📫 How to reach me rhomaedycreator@gmail.com
-- ⚡ Fun fact **when coding there is an error :)
+- ⚡ Fun fact when coding there is an error :)
 <br>
 
 <img align="letf" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
