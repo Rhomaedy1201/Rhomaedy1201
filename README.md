@@ -14,10 +14,10 @@
 <br>
 <p>
   <a>
-<img align="letf" alt="Coding" width="400" src="https://i.postimg.cc/gLc5dNqW/mobile-thrif.jpg">
+<img align="letf" alt="Coding" width="185" src="https://i.postimg.cc/gLc5dNqW/mobile-thrif.jpg">
   </a>
   <a>
-<img align="letf" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="letf" alt="Coding" width="185" src="https://i.postimg.cc/yW72F8qb/web-thrift.jpg">
   </a>
 </p>
 
