@@ -12,9 +12,14 @@
 - 📫 How to reach me rhomaedycreator@gmail.com
 - ⚡ Fun fact when coding there is an error :)
 <br>
-
+<p>
+  <a>
 <img align="letf" alt="Coding" width="200" src="https://i.postimg.cc/gLc5dNqW/mobile-thrif.jpg">
+  </a>
+  <a>
 <img align="letf" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+  </a>
+</p>
 
 <h2 align="left">🪩Connect with me:</h2>
 
