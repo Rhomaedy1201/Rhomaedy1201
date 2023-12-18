@@ -14,7 +14,7 @@
 <br>
 
 <img align="letf" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-[![Whats-App-Image-2023-12-18-at-21-52-17.jpg](https://i.postimg.cc/hGkhDLn1/Whats-App-Image-2023-12-18-at-21-52-17.jpg)](https://postimg.cc/qtGpQCzN)
+<img align="letf" alt="Coding" width="200" src="https://i.postimg.cc/hGkhDLn1/Whats-App-Image-2023-12-18-at-21-52-17.jpg)](https://postimg.cc/qtGpQCzN">
 
 <h2 align="left">🪩Connect with me:</h2>
 
