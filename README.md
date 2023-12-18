@@ -13,6 +13,7 @@
 - ⚡ Fun fact when coding there is an error :)
 <br>
 
+<img align="letf" alt="Coding" width="200" src="https://i.postimg.cc/gnFmFP1y/mobile-thrif.jpg">
 <img align="letf" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <h2 align="left">🪩Connect with me:</h2>
