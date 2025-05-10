@@ -60,8 +60,6 @@
 ![Rhomaedy1201 GitHub stats](https://github-readme-stats.vercel.app/api?username=rhomaedy1201&show_icons=true&theme=algolia)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rhomaedy1201&theme=algolia)](https://git.io/streak-stats)
 
-### 🎮 Play with me
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhomaedy1201/rhomaedy1201/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhomaedy1201/rhomaedy1201/output/pacman-contribution-graph.svg">
