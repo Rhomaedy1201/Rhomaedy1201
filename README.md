@@ -3,16 +3,16 @@
 ![Rhomaedy1201](img/github-header.png)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<h2 align="left">💫 About Me:</h2>
+
+### 💫 About Me
 
 - 🌱 I’m currently learning about Desktop, Mobile, Api, Web Developer And Design UI/UX
 - 👨‍💻 All of my projects are available at https://rhomaedi.netlify.app/
 - 💬 Ask me about Android, Web, and whatever you want😄
 - 📫 How to reach me rhomaedycreator@gmail.com
 - ⚡ Fun fact when coding there is an error :)
-  <br>
 
-<h2 align="left">🪩Connect with me:</h2>
+### 🪩Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/muhammad rhomaedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad rhomaedi" height="30" width="40" /></a>
@@ -67,9 +67,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhomaedy1201/rhomaedy1201/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rhomaedy1201/rhomaedy1201/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/rhomaedy1201/rhomaedy1201/output/snake.svg" alt="Snake animation" />
-
-###
