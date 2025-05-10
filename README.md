@@ -3,7 +3,6 @@
 ![Rhomaedy1201](img/github-header.png)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 ### 💫 About Me
 
 - 🌱 I’m currently learning about Desktop, Mobile, Api, Web Developer And Design UI/UX
