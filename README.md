@@ -57,10 +57,7 @@
 
 ![Rhomaedy1201 GitHub stats](https://github-readme-stats.vercel.app/api?username=rhomaedy1201&show_icons=true&theme=algolia)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhomaedy1201&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhomaedy1201&" alt="rhomaedy1201" /></p>
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rhomaedy1201&theme=algolia)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhomaedy1201/rhomaedy1201/output/pacman-contribution-graph-dark.svg">
