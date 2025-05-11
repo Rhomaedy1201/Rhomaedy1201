@@ -63,13 +63,11 @@
 ![Rhomaedy1201 GitHub stats](https://github-readme-stats.vercel.app/api?username=rhomaedy1201&show_icons=true&theme=algolia)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rhomaedy1201&theme=algolia)](https://git.io/streak-stats)
 
-###
-
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhomaedy1201/rhomaedy1201/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhomaedy1201/rhomaedy1201/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rhomaedy1201/rhomaedy1201/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 <img src="https://raw.githubusercontent.com/rhomaedy1201/rhomaedy1201/output/snake.svg" alt="Snake animation" />
 
