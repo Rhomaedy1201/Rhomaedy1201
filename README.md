@@ -61,7 +61,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhomaedy1201&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
 
 ![Rhomaedy1201 GitHub stats](https://github-readme-stats.vercel.app/api?username=rhomaedy1201&show_icons=true&theme=algolia)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rhomaedy1201&theme=algolia)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=rhomaedy1201&theme=algolia&mode=weekly)](https://git.io/streak-stats)
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhomaedy1201/rhomaedy1201/output/pacman-contribution-graph-dark.svg">
