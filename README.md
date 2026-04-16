@@ -7,7 +7,7 @@
 ### 💫 About Me
 
 - 🌱 I’m currently learning about Desktop, Mobile, Api, Web Developer And Design UI/UX
-- 👨‍💻 All of my projects are available at https://rhomaedi.netlify.app/
+- 👨‍💻 All of my projects are available at https://muhammad-rhomaedi.vercel.app/
 - 💬 Ask me about Android, Web, and whatever you want😄
 - 📫 How to reach me rhomaedycreator@gmail.com
 - ⚡ Fun fact when coding there is an error :)
