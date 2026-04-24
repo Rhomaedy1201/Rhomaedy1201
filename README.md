@@ -64,6 +64,6 @@ I am a **Software Engineer & Full Stack Developer** with over 4 years of profess
 
 ![Rhomaedy1201 GitHub stats](https://github-readme-stats.vercel.app/api?username=rhomaedy1201&show_icons=true&theme=algolia)
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=rhomaedy1201&theme=algolia&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rhomaedy1201&theme=algolia&mode=weekly)](https://git.io/streak-stats)
 
 <img src="https://raw.githubusercontent.com/rhomaedy1201/rhomaedy1201/output/snake.svg" alt="Snake animation" />
