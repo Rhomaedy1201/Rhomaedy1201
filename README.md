@@ -1,6 +1,14 @@
 ## Hi 👋, I'm Muhammad Rhomaedi
 
-![Rhomaedy1201](img/github-header.png)
+<img src="img/second_header.png" alt="Rhomaedy1201" width="500">
+
+<!-- 
+![Rhomaedy1201](img/second_header.png)
+<p align="center">
+  <video autoplay loop muted playsinline width="100%">
+    <source src="img/video_header.mp4" type="video/mp4">
+  </video>
+</p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
