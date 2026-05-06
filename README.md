@@ -60,10 +60,23 @@ I am a **Software Engineer & Full Stack Developer** with over 4 years of profess
 
 ### 📈 Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhomaedy1201&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
+<!-- Top Languages -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=rhomaedy1201&layout=compact&theme=algolia&hide_border=false" height="150" alt="languages graph" />
 
-![Rhomaedy1201 GitHub stats](https://github-readme-stats.vercel.app/api?username=rhomaedy1201&show_icons=true&theme=algolia)
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rhomaedy1201&show_icons=true&theme=algolia" height="150" alt="stats graph" />
 
+<!-- GitHub Streak Card -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=rhomaedy1201&theme=algolia&mode=weekly)](https://git.io/streak-stats)
+
+
+<!-- Badge Kepribadian -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Bahan%20Bakar-Kopi%20Hitam-8B4513?style=for-the-badge&logo=coffeescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mode%20Kerja-Burung%20Hantu-night?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status%20Bug-Sedang%20Ditusuk%20Jarum-red?style=for-the-badge&logo=bugsnag&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hobi-Nangisin%20Merge%20Conflict-FFD700?style=for-the-badge&logo=git&logoColor=black" />
+</p>
+
 
 <img src="https://raw.githubusercontent.com/rhomaedy1201/rhomaedy1201/output/snake.svg" alt="Snake animation" />
