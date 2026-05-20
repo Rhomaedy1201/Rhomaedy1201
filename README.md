@@ -23,7 +23,6 @@ I am a **Software Engineer & Full Stack Developer** with over 4 years of profess
 - 🚀 All of my projects and detailed portfolio are available at [muhammad-rhomaedi.vercel.app](https://muhammad-rhomaedi.vercel.app/)
 - 💬 Ask me about: **Flutter state management, Backend Architecture (PHP/Go), Database Optimization, or API Integrations**.
 - 📫 How to reach me: **muhammadrhomaedi@gmail.com**
-- ⚡ Fun fact: I spend my free time analyzing blue-chip stocks or tuning my PC for 120fps native gameplay! 😄
 
 ### 🪩 Connect with me
 
