@@ -76,7 +76,6 @@ I am a **Software Engineer & Full Stack Developer** with over 4 years of profess
 <!-- GitHub Streak Card -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=rhomaedy1201&theme=algolia&mode=weekly)](https://git.io/streak-stats)
 
-
 <!-- Badge Kepribadian -->
 <p align="center">
   <img src="https://img.shields.io/badge/Bahan%20Bakar-Kopi%20Hitam-8B4513?style=for-the-badge&logo=coffeescript&logoColor=white" />
